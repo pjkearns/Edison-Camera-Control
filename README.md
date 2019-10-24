@@ -14,8 +14,6 @@
 
 For these scripts you need Python 2.7.x https://www.python.org/downloads/ 
 
-Windows Notepad is derping about newline style, use something better than that, like Notepad++, PsPad, or even WordPad
-
 Edit settings.py with your camera IP. No need to launch this script
 
 * Edit options.txt (un/comment lines as needed) and launch Camera_set.py to set uncommented options
